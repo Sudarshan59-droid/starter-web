@@ -20,4 +20,4 @@ Please fork this repository and then issue pull requests for review.
 
 ## Copyright
 
-Copyright notice.
+TCS Copyright notice.
